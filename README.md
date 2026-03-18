@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Playwright](https://img.shields.io/badge/Playwright-Async-green)
-![Status](https://img.shields.io/badge/Status-Production-brightgreen) 
+![Status](https://img.shields.io/badge/Status-Production-brightgreen)  
 
 ## 🚀 Overview
 
